@@ -1,3 +1,9 @@
 #container > img {
     max-width: 85vw;
 }
+
+.image {
+    height: 20em;
+    width: 20em;
+    background-color: black;
+}
